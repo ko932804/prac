@@ -1,0 +1,38 @@
+*{
+    font-family: 'Jua', sans-serif;
+}
+
+.btn btn-primary {
+text-align: center;
+}
+.mytitle {
+    color: white;
+    width: 400px;
+    height: 500px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZlYzunZy3WK_4QvC5ictW48pyEe8f-EricjFOhsbUxwZSNfrc7us2Pl7ucOA8xAk6RkceBLM&usqp=CAc');
+    background-position: center;
+    background-size: cover;
+
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.wrap {
+    width: 350px;
+    margin: auto;
+}
+.explain_box {
+    color: gray;
+    border-color: skyblue;
+}
+
+.input_box{
+    color: whitesmoke;
+    border-color:  skyblue;
+}
+.bd-box{
+    width:400px;
+    border:1px solid transparent;
+    border-color: skyblue;
+}
